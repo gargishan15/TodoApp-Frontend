@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { useState } from "react";
 import Login from "./pages/Login.jsx";
-import Signup from './pages/SignUp.jsx';
+import Signup from './pages/Signup.jsx';
 import Dashboard from "./pages/Dashboard.jsx";
 import AddTodo from "./pages/AddTodo.jsx";
 import EditTodo from "./pages/EditTodo.jsx";
